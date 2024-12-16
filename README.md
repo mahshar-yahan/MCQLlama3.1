@@ -1,4 +1,4 @@
-# MCQ Question Answering using Llama 3.1
+# MCQ Question Answering using Llama 3.1(On going Project)
 
 This project focuses on solving Multiple-Choice Questions (MCQ) using the Llama 3.1 model with 8.1 billion parameters (instruct version). The task involved answering questions with four options, both without fine-tuning and with fine-tuning using LoRA.
 
